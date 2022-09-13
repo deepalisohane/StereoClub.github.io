@@ -1,0 +1,97 @@
+*{
+    font-family: cursive;
+}
+body{
+    background-image: url(img/img1.jpg);
+    margin: 20px 100px 50px 200px;
+}
+.stereo{
+    color: white;
+}
+.club{
+    color: red;  
+}
+.quote{
+    color: white;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    float: left;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.842);
+}
+nav a:hover{
+    color: tomato;
+    transform: scale(1.2);
+}
+.head1{
+    text-align: center;
+    color: white;
+}
+.head2,.head3{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    background-color: rgba(148, 142, 142, 0.11);
+}
+.tour,.tour1,.tour2{
+    background-color: crimson;
+    color: white;
+    width: 40%;
+}
+.para1,.para2{
+    color: black;
+    background-color: white;
+    padding: 10px;
+}
+.button{
+    background-color: rgba(204, 65, 65, 0.87);
+    float: right;
+    overflow: hidden;
+    text-align: center;
+}
+.button:hover{
+    transform: scale(1.2);
+    color: white;
+}
+.img,.img1{
+    clip-path: circle(43.2% at 50% 50%);
+    float: left;
+    margin: 10px 10px 10px 10px;
+}
+.para6,.para7{
+    color: black;
+    background-color: white;
+    padding: 20px;
+    font-size: 10px;
+}
+.align1,.align{
+    width: 50%;
+    float: left;
+}
+.tour{
+    width: 100%;
+    text-align:center ;
+    
+}
+
+.tour1{
+    width: 100%;
+    text-align:center ;
+    
+}
+
+.tour2{
+    float:left;
+    margin-left: 4%;
+    width: 48%;
+    text-align:center ;
+    
+}
+
+.abc{
+    width:48%;
+    float:left;
+}
